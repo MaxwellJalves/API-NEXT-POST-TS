@@ -1,4 +1,4 @@
-### Objetivo : Testar a utilização do next para renderizar as páginas utilizando todos os recursos possiveis.
+### Objetivo : Testar a utilização do next para renderizar as páginas utilizando os recursos.
 
 - Geração estatica
 - Geração dinamica
